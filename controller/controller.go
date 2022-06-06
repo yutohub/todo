@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"todo/model"
-	"todo/todo"
+	"github.com/yutohub/todo/model"
+	"github.com/yutohub/todo/todo"
 )
 
 func TodoHandler(w http.ResponseWriter, r *http.Request) {

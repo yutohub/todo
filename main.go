@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"todo/controller"
+	"github.com/yutohub/todo/controller"
 )
 
 func main() {

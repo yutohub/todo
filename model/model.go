@@ -5,7 +5,7 @@ import (
 
 	_ "modernc.org/sqlite"
 
-	"todo/todo"
+	"github.com/yutohub/todo/todo"
 )
 
 func CreateTable(db *sql.DB) error {
